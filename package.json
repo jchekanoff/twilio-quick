@@ -9,7 +9,7 @@
   "author": "Chek Creative",
   "license": "ISC",
   "dependencies": {
-    "twilio": "^3.30.3"
+    "twilio": "^3.83.4"
   },
   "devDependencies": {},
   "repository": {
